@@ -1,7 +1,7 @@
 # supply-chain-data-automation-and-analytics-platform
 Event-driven ETL pipeline that automates supply chain data ingestion from Gmail into a PostgreSQL data warehouse using n8n and Supabase, enabling SQL-based KPI reporting and analytics.
 
-# Automated Supply Chain Analytics Pipeline
+# Supply Chain Data Automation and Analytics Platform
 
 An event-driven data ingestion and analytics pipeline that automates the processing of supply chain data received through email. The workflow uses n8n to extract CSV attachments from Gmail, transforms the data into structured records, and loads it into a PostgreSQL database hosted on Supabase. The stored data is then analyzed using SQL to generate operational and business insights.
 
